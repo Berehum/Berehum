@@ -10,7 +10,7 @@
 
 
 
-### This is a quick overview of in what programming languages I code.
+### This is a quick overview of in what programming languages I code:
 ![Chart with programming statistics](https://wakatime.com/share/@6273f867-e0cd-40fd-bf5e-7f300ab51ccc/3e3a1af8-752d-412b-9dd9-003485978c2a.svg)
 
 <!---
