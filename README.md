@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @Berehum or Bram
 - 👀 I’m interested in Java programming
-- 💼 I’m currently working on the project CraftValley
 - 📫 To contact me, check my GitHub email address
 
 
