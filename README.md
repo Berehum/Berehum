@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @Berehum or Bram
 - 👀 I’m interested in Java programming.
-- 📫 Check my GitHub email address if you want to contact me or add me on [Discord](https://discord.com/users/260448998416973825).
+- 🎓 Currently learning Rust.
+- 📫 If you want to contact me, please check my GitHub email address or add me on [Discord](https://discord.com/users/260448998416973825).
 
 
 ### My GitHub Statistics:
