@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @Berehum or Bram
-- 👀 I’m interested in Java programming.
-- 🎓 Currently learning Rust.
+- 📕 I study Computer Science
+- 👀 I'm interested in Rust, Java and Python
+- 🎓 Currently learning how to build websites with Django.
 - 📫 If you want to contact me, please check my GitHub email address or add me on [Discord](https://discord.com/users/260448998416973825).
 
 
